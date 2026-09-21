@@ -1,3 +1,8 @@
+> **This repository has moved to [salva-sm/sfcc-tools](https://github.com/salva-sm/sfcc-tools).**
+> It now lives there as `extensions/isml, crates/isml-lsp and grammar`, with this history intact, alongside the
+> other SFCC tools it was always used with. Everything below is kept for
+> reference; development continues in the new repository.
+
 # sfcc-zed-isml
 
 ISML support for the [Zed](https://zed.dev) editor: syntax highlighting for
